@@ -12,7 +12,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": null,
       "metadata": {
         "id": "dQ0K5FHja6UH",
         "collapsed": true,
@@ -48,7 +48,7 @@
         },
         "outputId": "6865ac04-38ef-447d-8f33-c382ca0ede24"
       },
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -108,7 +108,7 @@
         },
         "outputId": "8c6c32c0-29f6-443e-b3fc-3aa14fc40b01"
       },
-      "execution_count": 3,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -167,7 +167,7 @@
         },
         "outputId": "6ff89b67-d33d-4a6f-e083-5eba1a6896e5"
       },
-      "execution_count": 4,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -228,7 +228,7 @@
         },
         "outputId": "67a919fc-505a-4602-dc89-07a65570d3f3"
       },
-      "execution_count": 5,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -318,7 +318,7 @@
         },
         "outputId": "32480491-d88f-4486-e359-64ac4f1aea62"
       },
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -433,7 +433,7 @@
         "collapsed": true,
         "id": "Xa_w-ZLQXKL-"
       },
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -451,7 +451,7 @@
         },
         "outputId": "033f0007-41a3-47da-ae46-8c76aa7d0549"
       },
-      "execution_count": 8,
+      "execution_count": null,
       "outputs": [
         {
           "name": "stdout",
@@ -492,7 +492,7 @@
       "metadata": {
         "id": "-O1Hp387af34"
       },
-      "execution_count": 9,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -508,7 +508,7 @@
         "id": "412MR9-nOOtq",
         "outputId": "b9295ad6-5558-439e-dc70-ff1826521b4d"
       },
-      "execution_count": 10,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -560,7 +560,7 @@
       "metadata": {
         "id": "pF81t_tsXy-d"
       },
-      "execution_count": 11,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -577,7 +577,7 @@
         "id": "1Ui3CBIPZl3q",
         "outputId": "01f294eb-4cd5-4482-bf36-4f1014e0025a"
       },
-      "execution_count": 15,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -627,7 +627,7 @@
         "id": "ymgohDxZpdbP",
         "outputId": "8ac8ad24-cf51-4a0e-994e-8846851c9b71"
       },
-      "execution_count": 16,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -655,7 +655,7 @@
       "metadata": {
         "id": "gp25JL5MvN4t"
       },
-      "execution_count": 17,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -681,7 +681,7 @@
         "outputId": "07430a4f-75f7-4642-e2be-765040cb1714",
         "collapsed": true
       },
-      "execution_count": 18,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -758,7 +758,7 @@
         },
         "outputId": "c6991245-f29f-4ea3-94c9-7654b5bec8ee"
       },
-      "execution_count": 19,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -786,7 +786,7 @@
         },
         "outputId": "5ee159e6-2dc1-4089-ffca-3779e344866f"
       },
-      "execution_count": 22,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -813,7 +813,7 @@
         "id": "UQSvuniU3OMR",
         "outputId": "5f88782b-88b9-4f27-a55c-f2e8b010ebed"
       },
-      "execution_count": 23,
+      "execution_count": null,
       "outputs": [
         {
           "name": "stdout",
@@ -833,7 +833,7 @@
       "metadata": {
         "id": "c72sEd2S3am8"
       },
-      "execution_count": 31,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -848,7 +848,7 @@
       "metadata": {
         "id": "JtOXZz1l3izN"
       },
-      "execution_count": 25,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -861,7 +861,7 @@
       "metadata": {
         "id": "cxDdHiN-5abK"
       },
-      "execution_count": 26,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -879,7 +879,7 @@
         "outputId": "34824c57-aeae-42e2-8b4a-acb959862db4",
         "collapsed": true
       },
-      "execution_count": 27,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -922,7 +922,7 @@
       "metadata": {
         "id": "inJ6Ltn58-Ny"
       },
-      "execution_count": 28,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -939,7 +939,7 @@
         "id": "R8UUEW8wfMmj",
         "outputId": "744bd4ff-814f-4c9a-8f1a-2a7cda48b81d"
       },
-      "execution_count": 29,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -991,7 +991,7 @@
         "id": "DhO3jQwVkWNB",
         "outputId": "fd748294-aa3a-49c1-daf8-91e42975adf3"
       },
-      "execution_count": 30,
+      "execution_count": null,
       "outputs": [
         {
           "metadata": {
@@ -1038,7 +1038,7 @@
       "metadata": {
         "id": "sz6eePiUq08G"
       },
-      "execution_count": 32,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -1053,7 +1053,7 @@
       "metadata": {
         "id": "4zuRvlWcndzd"
       },
-      "execution_count": 33,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -1071,7 +1071,7 @@
       "metadata": {
         "id": "QNZokFTPoV2r"
       },
-      "execution_count": 34,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -1091,7 +1091,7 @@
       "metadata": {
         "id": "V7Yfklc3ot5W"
       },
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -1102,7 +1102,7 @@
       "metadata": {
         "id": "uqvFikqipdOf"
       },
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": []
     }
   ],
